@@ -42,7 +42,7 @@ body {
   border: 0.125rem solid;
   border-color: var(--gray-950);
   border-radius: 1.563rem;
-  box-shadow: 0.625rem 0.625rem var(--gray-950);
+  box-shadow: 0.563rem 0.563rem var(--gray-950);
   display: flex;
   flex-flow: column nowrap;
   gap: 1.5rem;
@@ -69,13 +69,13 @@ body {
 }
 
 .published-date {
-  margin-bottom: 1.5rem;
-  font-size: 0.75rem;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
 }
 
 .card-title {
-  margin-bottom: 1.5rem;
-  font-size: 1.063rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
   cursor: pointer;
 }
 
@@ -95,6 +95,7 @@ body {
   align-items: center;
   gap: 0.813rem;
   height: 2rem;
+  font-weight: 800;
 }
 
 img{
