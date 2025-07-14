@@ -36,7 +36,7 @@ body {
 
 .blog-card {
   height: 32.5rem;
-  width: clamp(20rem, 18.68rem + 3.52vw, 23.75rem);
+  width: clamp(20rem, 18rem + 10vw, 23.75rem);
   padding: 1.375rem;
   background-color: var(--white);
   border: 0.125rem solid;
